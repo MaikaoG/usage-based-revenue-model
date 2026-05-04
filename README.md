@@ -1,5 +1,4 @@
-# usage-based-revenue-model
-Simple model exploring how product usage translates into revenue, cost, and margin in a usage-based SaaS business.
+
 # Usage-Based SaaS Revenue Model
 
 A simple finance model showing how product usage translates into revenue, cost, and gross margin in a usage-based SaaS / AI business.
