@@ -3,8 +3,6 @@
 
 A simple finance model showing how product usage translates into revenue, cost, and gross margin in a usage-based SaaS / AI business.
 
-## Why I built this
-
 Modern SaaS businesses increasingly monetize through usage, not just seats. This creates a tighter link between product behavior, billing, revenue recognition, infrastructure cost, and gross margin.
 
 Built this simple model to explore how usage distribution, pricing, and unit cost affect revenue quality and margin.
