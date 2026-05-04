@@ -1,0 +1,5 @@
+customer_segment,customers,usage_units_per_customer
+Light,100,1000
+Medium,50,10000
+Heavy,20,50000
+Enterprise,5,250000
